@@ -15,7 +15,7 @@ Decent processor
 4GB ram
 
 Installation
-1. Download the project and in your downloads folder extract the zip
+1. Download the project and in your downloads folder extract the rar
 2. Drag the file you got to your desktop
 3. Execute RyzMacro.exe 
 4. Wait for the program to install dependencies
